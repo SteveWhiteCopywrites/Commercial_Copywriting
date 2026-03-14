@@ -17,11 +17,11 @@ Blogs with banner images supplied for the HR Spectrum website covering employmen
 
 A total of 22 original, researched, on-topic HR blogs were supplied according brief from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the HR Spectrum Newsroom can be seen below.
 
-Discover the [full HR Spectrum blog archive here](https://hrspectrum.co.uk/newsroom). (My work ends on and includes entry dated Feb 20th 2023).
+Discover the [full HR Spectrum blog archive](https://hrspectrum.co.uk/newsroom). (My work ends on and includes entry dated Feb 20th 2023).
 
 ![HR Spectrum blog examples](hrspecblogs.png)
 
-Example Blog: Breaking the silence on mental health in the workplace. Read the blog in the [HR Spectrum Newsroom here](https://hrspectrum.co.uk/newsroom/breaking-the-silence-on-mental-health-in-the-workplace).
+Example Blog: Breaking the silence on mental health in the workplace. Read the blog in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom/breaking-the-silence-on-mental-health-in-the-workplace).
 
 ![HR Spectrum blog examples](blog1.png)
 
