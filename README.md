@@ -19,7 +19,7 @@ I took care of all social media messaging and scheduling, and was responsible fo
 ### HR Spectrum Blogs
 Blogs with banner images supplied for the HR Spectrum website covering employment law, workplace wellbeing and HR best practice.
 
-A total of 22 original, researched, on-topic HR blogs were supplied according brief from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the HR Spectrum Newsroom can be seen below.
+A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the HR Spectrum Newsroom can be seen below.
 
 Discover the [full HR Spectrum blog archive](https://hrspectrum.co.uk/newsroom). (My work ends on and includes entry dated Feb 20th 2023).
 
