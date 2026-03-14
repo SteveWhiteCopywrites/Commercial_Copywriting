@@ -17,7 +17,7 @@ Blogs with banner images supplied for the HR Spectrum website covering employmen
 
 A total of 22 original, researched, on-topic HR blogs were supplied according brief from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the HR Spectrum Newsroom can be seen below.
 
-Read the full blog archive (my work ends on entry dated Feb 20th 2023)
+Discover the [full HR Spectrum blog archive here](https://hrspectrum.co.uk/blog) (my work ends on entry dated Feb 20th 2023).
 https://hrspectrum.co.uk/blog
 
 ![HR Spectrum blog examples](hrspecblogs.png)
