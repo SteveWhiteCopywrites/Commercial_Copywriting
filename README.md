@@ -6,7 +6,7 @@ Commercial copywriting including website copy, blog writing, PR, product descrip
 Examples of commercial copywriting for client websites.
 
 ### HR Spectrum Webcopy
-Copywriting and content production for [HR Spectrum](https://hrspectrum.co.uk/), including all website copy, blog and infographics for social media. My work focused on communicating HR and employment opportunities and written content clearly for business audiences. Website design by [Parade Design](https://paradedesign.co.uk/).
+Copywriting and content production for [HR Spectrum](https://hrspectrum.co.uk/), including all website copy, blogs (up to 20/02/23) and infographics for social media. My work focused on communicating HR and employment opportunities and written content clearly for business audiences. Website design by [Parade Design](https://paradedesign.co.uk/).
 
 ![HR Spectrum website copy](hrspec1.png)
 
@@ -17,7 +17,7 @@ Blogs with banner images supplied for the HR Spectrum website covering employmen
 
 A total of 22 original, researched, on-topic HR blogs were supplied according brief from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the HR Spectrum Newsroom can be seen below.
 
-Discover the [full HR Spectrum blog archive here](https://hrspectrum.co.uk/newsroom). (My work ends on entry dated Feb 20th 2023).
+Discover the [full HR Spectrum blog archive here](https://hrspectrum.co.uk/newsroom). (My work ends on and includes entry dated Feb 20th 2023).
 
 ![HR Spectrum blog examples](hrspecblogs.png)
 
