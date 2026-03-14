@@ -34,5 +34,5 @@ Example Blog: Breaking the silence on mental health in the workplace. Read the b
 ![HR Spectrum blog examples](blog3.png)
 
 ### Infographics
-Infographics designed and written by me as part of social media messaging on LinkedIn, Facebook, and X for HR Spectrum.
+Infographics designed, written, scheduled and published by me as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum.
 
