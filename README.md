@@ -23,3 +23,9 @@ https://hrspectrum.co.uk/blog
 ![HR Spectrum blog examples](hrspecblogs.png)
 
 #Example Blog: Breaking the silence on mental health in the workplace
+
+![HR Spectrum website copy](blog1.png)
+
+![HR Spectrum website copy](blog2.png)
+
+![HR Spectrum website copy](blog3.png)
