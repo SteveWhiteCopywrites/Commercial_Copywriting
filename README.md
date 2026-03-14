@@ -28,3 +28,7 @@ Discover the [full HR Spectrum blog archive here](https://hrspectrum.co.uk/newsr
 ![HR Spectrum blog examples](blog2.png)
 
 ![HR Spectrum blog examples](blog3.png)
+
+### Infographics
+Infographics designed and written by me as part of social media messaging on LinkedIn, Facebook, and X for HR Spectrum.
+
