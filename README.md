@@ -6,7 +6,9 @@ Commercial copywriting including website copy, blog writing, PR, product descrip
 Examples of commercial copywriting for client websites.
 
 ### HR Spectrum
-Copywriting and content production for HR Spectrum, including website copy, blog writing and infographic content. My work focused on communicating HR and employment opportunities and written content clearly for business audiences.
+Copywriting and content production for HR Spectrum, including website copy, blog and infographic content. My work focused on communicating HR and employment opportunities and written content clearly for business audiences.
+
+
 
 
 
