@@ -1,5 +1,5 @@
 # Commercial Copywriting
-Commercial copywriting including website copy, blog writing, PR, product descriptions, ghostwritten content and proofreading for private clients through my copywriting practice, Skybluecreative.
+Commercial copywriting for private clients through [Skybluecreative](https://skybluecreative.co.uk/), including website copy, blog posts, PR, product descriptions, ghostwriting, and proofreading.
 
 ## Website Copywriting
 
