@@ -31,7 +31,7 @@ Example Blog: Breaking the silence on mental health in the workplace. Read the b
 
 ![HR Spectrum blog examples](blog3.png)
 
-Other blogs
+Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 
 [Covid-19 must be used to create a fairer workplace](https://hrspectrum.co.uk/newsroom/covid-19-must-be-used-to-create-greater-gender-equality-in-the-workplace)
 
