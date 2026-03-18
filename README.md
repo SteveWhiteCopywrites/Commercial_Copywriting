@@ -78,4 +78,6 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 - [Breaking the silence on mental health in the workplace](https://hrspectrum.co.uk/newsroom/breaking-the-silence-on-mental-health-in-the-workplace)
 
 ### Infographics
-Infographics designed, written, scheduled and published by me as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum.
+A snapshot of infographics designed, written, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum. This content was produced to promote specific events, campaigns and announcements, such as job or training opportunities.
+
+![HR Spectrum Infographics examples](HRSpecInfo.png)
