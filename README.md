@@ -98,12 +98,12 @@ Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their s
 
 ![Webscopy](chockweb.png)
 
-![Webscopy](chockweb1.png)
+![Webscopy](chockweb2.png)
 
 ### Blogs
 I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an example blog, and an interview that I conducted with [Chock Shop](https://www.chockshop.co.uk/) franchisees. 
 
-![Blogs](chockweb2.png)
+![Blogs](chocblog1.png)
 
 ## Chapter Court, Wrexham
 
