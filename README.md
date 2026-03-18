@@ -17,7 +17,7 @@ I took care of all social media messaging and scheduling, and was responsible fo
 ![HR Spectrum website copy](hrspec2.png)
 
 ### Blogs
-Blogs with banner images supplied for the HR Spectrum website covering employment law, workplace wellbeing and HR best practice.
+Blogs with banner images supplied for the [HR Spectrum](https://hrspectrum.co.uk/) website covering employment law, workplace wellbeing and HR best practice.
 
 A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each supplied with banner image. A snapshot of these blogs as they appear in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom) can be seen below. In the newsroom, my work ends on and includes entry dated Feb 20th 2023.
 
@@ -78,7 +78,7 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 - [Breaking the silence on mental health in the workplace](https://hrspectrum.co.uk/newsroom/breaking-the-silence-on-mental-health-in-the-workplace)
 
 ### Infographics
-A snapshot of infographics that I designed, wrote, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum. This content was produced to promote and support blogs, events, campaigns and announcements, such as job or training opportunities.
+A snapshot of infographics that I designed, wrote, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for [HR Spectrum](https://hrspectrum.co.uk/). This content was produced to promote and support blogs, events, campaigns and announcements, such as job or training opportunities.
 
 ![HR Spectrum Infographics examples](HRSpecInfo.png)
 
