@@ -85,9 +85,10 @@ A snapshot of infographics designed, written, scheduled and published as part of
 ## Chapter Court, Wrexham
 
 ### Webcopy
-Webcopy produced for [Chapter Court](https://chaptercourt.co.uk/), a microretailing and events space in the heart of Wrexham.
+Webcopy produced for [Chapter Court](https://chaptercourt.co.uk/), a microretailing and events space in the heart of Wrexham. Document design by [Parade Design](https://paradedesign.co.uk/).
 
-![Chapter Court Webcopy example](
+![Chapter Court Webcopy example](Chaptercourt1.png).
 
 
-### Online brochure
+
+
