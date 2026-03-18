@@ -81,3 +81,13 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 A snapshot of infographics designed, written, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum. This content was produced to promote specific events, campaigns and announcements, such as job or training opportunities.
 
 ![HR Spectrum Infographics examples](HRSpecInfo.png)
+
+## Chapter Court, Wrexham
+
+### Webcopy
+Webcopy produced for [Chapter Court](https://chaptercourt.co.uk/), a microretailing and events space in the heart of Wrexham.
+
+![Chapter Court Webcopy example](
+
+
+### Online brochure
