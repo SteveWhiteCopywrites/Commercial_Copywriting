@@ -3,7 +3,7 @@ Commercial copywriting for private clients through [Skybluecreative](https://sky
 
 ## Website Copywriting
 
-### HR Spectrum
+## HR Spectrum
 Copywriting and content production for [HR Spectrum](https://hrspectrum.co.uk/), including all website copy, newsroom blogs (up to 20/02/23) and infographics for social media.
 
 My work focused on communicating HR and employment opportunities, as well as production of timely, engaging written content for business audiences. Website design by [Parade Design](https://paradedesign.co.uk/).
@@ -16,7 +16,7 @@ I took care of all social media messaging and scheduling, and was responsible fo
 
 ![HR Spectrum website copy](hrspec2.png)
 
-### HR Spectrum Blogs
+### Blogs
 Blogs with banner images supplied for the HR Spectrum website covering employment law, workplace wellbeing and HR best practice.
 
 A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each supplied with banner image. A snapshot of these blogs as they appear in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom) can be seen below. In the newsroom, my work ends on and includes entry dated Feb 20th 2023.
@@ -81,6 +81,22 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 A snapshot of infographics that I designed, wrote, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for HR Spectrum. This content was produced to promote and support blogs, events, campaigns and announcements, such as job or training opportunities.
 
 ![HR Spectrum Infographics examples](HRSpecInfo.png)
+
+## Chock Shop
+[Chock Shop](https://www.chockshop.co.uk/) is a UK-based artisan brownie brand known for its handmade, premium products and strong presence at festivals, markets, and two retail locations, including Abergavenny and Saundersfoot in Wales.
+
+## Brief
+- Develop engaging, appetite-driven copy
+- Reflect playful, indulgent brand voice
+- Develop 30 product descriptions
+- Emphasise quality + uniqueness (round brownies, fresh, handmade)
+
+### Webcopy
+I developed the full suite of website copy for Chock Shop, shaping a tone that balances indulgence, fun and clarity. The focus was on capturing the brand’s personality while clearly communicating product quality, provenance, and offering.
+
+![Webscopy](chockweb.png)
+
+![Webscopy](chockweb2.png)
 
 ## Chapter Court, Wrexham
 
