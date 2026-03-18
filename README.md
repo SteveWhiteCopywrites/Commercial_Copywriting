@@ -92,7 +92,9 @@ A snapshot of infographics that I designed, wrote, scheduled and published as pa
 - Emphasise quality + uniqueness (round brownies, fresh, handmade)
 
 ### Webcopy
-I developed the full suite of website copy for Chock Shop, shaping a tone that balances indulgence, fun and clarity. The focus was on capturing the brand’s personality while clearly communicating product quality, provenance, and offering.
+I developed the full suite of website copy for [Chock Shop](https://www.chockshop.co.uk/), shaping a tone that balances indulgence, fun and clarity. The focus was on capturing the brand’s personality while clearly communicating product quality, provenance, and offering.
+
+Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their shape - round instead of the conventional square. I incorporated this into the slogan I wrote for [Chock Shop](https://www.chockshop.co.uk/): "THE BEST BROWNIES AROUND BECAUSE THE BEST BROWNIES ARE ROUND". Beyond the website this can be seen on the windows of [Chock Shop](https://www.chockshop.co.uk/) outlets, as pictured below.
 
 ![Webscopy](chockweb.png)
 
