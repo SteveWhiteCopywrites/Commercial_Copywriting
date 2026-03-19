@@ -116,7 +116,9 @@ I wrote long-form blog content designed to extend the brand voice beyond product
 ### Product Description
 I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chockshop.co.uk/our-flavours). See a snap shot below.
 
-![Product Description]
+![Product Description](NewProduct1.png)
+
+![Product Description](NewProduct2.png)
 
 
 ## Chapter Court, Wrexham
