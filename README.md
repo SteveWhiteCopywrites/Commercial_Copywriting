@@ -122,6 +122,20 @@ I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chock
 
 ![Product Description](NewProduct2.png)
 
+## HUBXV
+[HUB XV](https://www.hubxv.com/) is a UK-based coworking and business community founded by former Wales international rugby player Alix Popham, transforming iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
+
+### Brief
+
+- Develop and deliver a consistent brand voice across all channels, including website, marketing, PR, social media, and editorial content.  
+- Produce engaging content—blogs, interviews, and news releases—to build brand identity, support community engagement, and promote the HUB XV concept.
+
+### Webcopy
+
+### PR
+
+### 
+
 
 ## Chapter Court, Wrexham
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
