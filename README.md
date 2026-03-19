@@ -85,7 +85,7 @@ A snapshot of infographics that I designed, wrote, scheduled and published as pa
 ## Chock Shop
 [Chock Shop](https://www.chockshop.co.uk/) is a UK-based artisan brownie brand known for its handmade, premium products and strong presence at festivals, markets, and two retail locations, including Abergavenny and Saundersfoot in Wales.
 
-## Brief
+### Brief
 - Develop engaging, appetite-driven copy
 - Reflect playful, indulgent brand voice
 - Develop 30 product descriptions
