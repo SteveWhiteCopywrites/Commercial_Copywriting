@@ -113,6 +113,12 @@ I wrote long-form blog content designed to extend the brand voice beyond product
 
 ![Blogs](Newchockblog2.png)
 
+### Product Description
+I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chockshop.co.uk/our-flavours). See a snap shot below.
+
+![Product Description]
+
+
 ## Chapter Court, Wrexham
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
 
