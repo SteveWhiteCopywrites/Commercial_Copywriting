@@ -114,11 +114,6 @@ I wrote long-form blog content designed to extend the brand voice beyond product
 ![Blogs](Newchockblog2.png)
 
 ## Chapter Court, Wrexham
-Develop engaging website copy to introduce a micro-retail destination and communicate its offer to visitors and prospective traders.  
-Capture a clear, community-focused tone while highlighting the diversity of independent businesses within the space.
-Webcopy produced for [Chapter Court](https://chaptercourt.co.uk/), a microretailing and events space in the heart of Wrexham. Document design by [Parade Design](https://paradedesign.co.uk/).
-
-### Webcopy
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
 
 ### Brief
