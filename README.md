@@ -21,9 +21,7 @@ Commercial copywriting for private clients through [Skybluecreative](https://sky
 ![HR Spectrum website copy](hrspec2.png)
 
 ### Blogs
-Blogs with banner images supplied for the [HR Spectrum](https://hrspectrum.co.uk/) website covering employment law, workplace wellbeing and HR best practice.
-
-A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each supplied with banner image. A snapshot of these blogs as they appear in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom) can be seen below. In the newsroom, my work ends on and includes entry dated Feb 20th 2023.
+Blogs for the [HR Spectrum](https://hrspectrum.co.uk/) website covered employment law, workplace wellbeing and HR best practice. A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom) can be seen below. My work ends on and includes entry dated Feb 20th 2023.
 
 ![HR Spectrum blog examples](hrspecblogs.png)
 
