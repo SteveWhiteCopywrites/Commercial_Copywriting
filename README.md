@@ -1,5 +1,5 @@
 # Commercial Copywriting
-NB: All content in this portfolio is pre-AI.
+NB: All content pre-AI.
 
 Commercial copywriting for private clients through [Skybluecreative](https://skybluecreative.co.uk/), including website copy, blog posts, PR, product descriptions, ghostwriting, and proofreading.
 
