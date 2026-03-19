@@ -96,9 +96,13 @@ I developed the full suite of website copy for [Chock Shop](https://www.chocksho
 
 Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their shape - round instead of the conventional square. I incorporated this into the slogan I wrote for [Chock Shop](https://www.chockshop.co.uk/): "THE BEST BROWNIES AROUND BECAUSE THE BEST BROWNIES ARE ROUND". Beyond the website this can be seen on the windows of [Chock Shop](https://www.chockshop.co.uk/) outlets, as pictured below.
 
-![Webscopy](chockweb.png)
+![Webscopy](Newchockweb1.png)
 
-![Webscopy](chockweb2.png)
+![Webscopy](Newchockweb2.png)
+
+![Webscopy](Newchockweb3.png)
+
+![Webscopy](Newchockweb4.png)
 
 ### Blogs
 I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an example blog, and an interview that I conducted with [Chock Shop](https://www.chockshop.co.uk/) franchisees. 
