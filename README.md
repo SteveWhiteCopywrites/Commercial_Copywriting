@@ -156,8 +156,20 @@ PR coverage secured across Western Mail in print, [Wales Online](https://www.wal
 
 ![HUBXVPR](hubxvPR5.png)
 
-### 
+## Phillips Wellbeing
 
+[Phillips Wellbeing](https://www.phillipswellbeing.co.uk/) is a wellbeing consultancy based in Newport, south Wales, offering coaching and support services focused on mental health, resilience, and personal development.
+
+### Brief
+
+- Rewrite and refine website copy to clearly communicate services, improve tone of voice, and better engage a wellbeing-focused audience.  
+- Ensure messaging is accessible, supportive, and aligned with the brand’s focus on mental health and personal development.
+
+### Webcopy
+
+Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
+
+PICTURES
 
 ## Chapter Court, Wrexham
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
