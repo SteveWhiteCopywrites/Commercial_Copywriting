@@ -131,7 +131,13 @@ HUB XV was a start-up UK-based coworking and business community founded by forme
 - Produce engaging content—blogs, interviews, and news releases—to build brand identity, support community engagement, and promote the HUB XV concept.
 
 ### Webcopy
+Website copy developed to clearly explain the HUB XV concept, its spirit of sporting heritage and its appeal to a professional audience.
 
+![HUB XV Webcopy Example](hubxvcopy1.png)
+
+![HUB XV Webcopy Example](hubxvcopy2.png)
+
+![HUB XV Webcopy Example](hubxvcopy3.png)
 
 ### PR
 
