@@ -144,7 +144,7 @@ PR coverage secured across Western Mail in print, [Wales Online](https://www.wal
 
 ![HUBXVPR](hubxvPR1Western.png)
 
-![HUBXVPR](hubxvPRWalesOnline.png)
+![HUBXVPR](hubxvPR1WalesOnline.png)
 
 ![HUBXVPR](hubxvPR1WalesOnline1.png)
 
