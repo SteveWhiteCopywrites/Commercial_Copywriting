@@ -123,7 +123,7 @@ I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chock
 ![Product Description](NewProduct2.png)
 
 ## HUBXV
-[HUB XV](https://www.hubxv.com/) is a UK-based coworking and business community founded by former Wales international rugby player Alix Popham, transforming iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
+HUB XV was a start-up UK-based coworking and business community founded by former Wales international rugby player Alix Popham. It transformed iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
 
 ### Brief
 
