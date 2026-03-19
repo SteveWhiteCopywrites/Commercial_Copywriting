@@ -4,11 +4,15 @@ Commercial copywriting for private clients through [Skybluecreative](https://sky
 ## Website Copywriting
 
 ## HR Spectrum
-Copywriting and content production for [HR Spectrum](https://hrspectrum.co.uk/), including all website copy, newsroom blogs (up to 20/02/23) and infographics for social media.
+[HR Spectrum](https://hrspectrum.co.uk/) is a Wales-based boutique HR recruitment consultancy that connects organisations with high-calibre HR professionals, combining market insight, personalised service, and long-term partnership. Website design by [Parade Design](https://paradedesign.co.uk/).
 
-My work focused on communicating HR and employment opportunities, as well as production of timely, engaging written content for business audiences. Website design by [Parade Design](https://paradedesign.co.uk/).
-
-I took care of all social media messaging and scheduling, and was responsible formatting all web content and publishing via HR Spectrum CMS.
+### Brief
+- Develop clear, engaging website copy for an HR and recruitment audience  
+- Communicate job opportunities, services, and employer value propositions effectively  
+- Produce timely newsroom/blog content to support ongoing engagement
+- Translate complex HR topics into accessible, business-friendly language
+- Support social media messaging with appropriate images and organise distribution
+- Ensure consistency of tone across website, CMS, and social channels
 
 ### Webcopy
 
