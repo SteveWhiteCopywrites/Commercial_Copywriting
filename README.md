@@ -171,7 +171,7 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 
 PICTURES
 
-## Chapter Court, Wrexham
+## Chapter Court
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
 
 ### Brief
