@@ -278,7 +278,7 @@ Brochure content reviewed and refined to improve clarity, consistency, and overa
 Seafood Shack was a Cardiff-based restaurant offering high-quality seafood dining in a relaxed, contemporary setting.
 
 ### Brief
-Concept development and copywriting for a print advertisement for Seafood Shack, published in Cardiff's *Style of the City* [magazine](https://styleofthecitymag.co.uk/)
+- Concept development and copywriting for a print advertisement for Seafood Shack, published in Cardiff's *Style of the City* [magazine](https://styleofthecitymag.co.uk/)
 
 <img src="images/seafood.png" width="600">
 
