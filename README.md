@@ -217,7 +217,7 @@ Complex financial services content translated into clear, accessible website cop
 ### Webcopy
 Document design by [Parade Design](https://paradedesign.co.uk/).
 
-![Chapter Court Webcopy example](images/Chaptercourt1.png).
+<img src="images/Chaptercourt1.png" width="600">
 
 ## Best Practice Coaching
 [Best Practice Coaching](https://www.bpcoaching.org.uk/services/outplacement-service) is a Wales-based coaching and consultancy service supporting individuals and organisations through career transition, leadership development, and outplacement programmes.
@@ -258,4 +258,4 @@ Brochure content reviewed and refined to improve clarity, consistency, and overa
 
 <img src="images/Aspect1.png" width="600">
 
-<img src="images/Aspect1.png" width="600">
+<img src="images/Aspect2.png" width="600">
