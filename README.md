@@ -228,11 +228,11 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 ### Webcopy
 
-![Webcopy Example 1](images/BP1.png)
+<img src="images/BP1.png" width="600">
 
-![Webcopy Example 1](images/BP2.png)
+<img src="images/BP2.png" width="600">
 
-![Webcopy Example 1](images/BP3.png)
+<img src="images/BP3.png" width="600">
 
 ## Kay Senior Coaching
 [Kay Senior Coaching](https://www.kseniorcoaching.com/) is a personal development and performance coaching service supporting individuals in achieving professional and personal goals.
