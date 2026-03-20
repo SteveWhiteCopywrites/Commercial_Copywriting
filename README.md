@@ -141,19 +141,19 @@ Website copy developed to clearly explain the HUB XV concept, its spirit of spor
 ### PR
 PR and releases that I developed and distributed secured coverage across Western Mail in print, [Wales Online](https://www.walesonline.co.uk/business/business-news/former-welsh-rugby-international-turning-15647785), [Total Guide to Bath](https://www.totalguidetobath.com/business/hub-xv-community-workspace-opens-at-bath-racecourse/), and [Bath Racecourse](https://www.bath-racecourse.co.uk/bath-racecourse/hub-xv-coworking-space).
 
-![HUBXVPR](images/hubxvPR1Western.png)
+<img src="images/hubxvPR1Western.png" width="600">
 
-![HUBXVPR](images/hubxvPR1WalesOnline.png)
+<img src="images/hubxvPR1WalesOnline.png" width="600">
 
-![HUBXVPR](images/hubxvPR1WalesOnline1.png)
+<img src="images/hubxvPR1WalesOnline1.png" width="600">
 
-![HUBXVPR](images/hubxvPR2Snapped.png)
+<img src="images/hubxvPR2Snapped.png" width="600">
 
-![HUBXVPR](images/hubxvPR3Workspace.png)
+<img src="images/hubxvPR3Workspace.png" width="600">
 
-![HUBXVPR](images/hubxvPR4Racecourse.png)
+<img src="images/hubxvPR4Racecourse.png" width="600">
 
-![HUBXVPR](images/hubxvPR5.png)
+<img src="images/hubxvPR5.png" width="600">
 
 ## Phillips Wellbeing
 [Phillips Wellbeing](https://www.phillipswellbeing.co.uk/) is a wellbeing consultancy based in Newport, south Wales, offering coaching and support services focused on mental health, resilience, and personal development.
@@ -165,17 +165,17 @@ PR and releases that I developed and distributed secured coverage across Western
 ### Webcopy
 Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
 
-![PhillipsWellbeing Webcopy](images/PW1.png)
+<img src="images/PW1.png" width="600">
 
-![PhillipsWellbeing Webcopy](images/PW2.png)
+<img src="images/PW2.png" width="600">
 
-![PhillipsWellbeing Webcopy](images/PW3.png)
+<img src="images/PW3.png" width="600">
 
-![PhillipsWellbeing Webcopy](images/PW4.png)
+<img src="images/PW4.png" width="600">
 
-![PhillipsWellbeing Webcopy](images/PW5.png)
+<img src="images/PW5.png" width="600">
 
-![PhillipsWellbeing Webcopy](images/PW6.png)
+<img src="images/PW6.png" width="600">
 
 ## Play-Ex
 [Play-Ex](https://play-ex.com/) is a UK-based financial services platform focused on supporting athletes and high-performance individuals with tailored financial education, planning, and advisory services.
