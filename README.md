@@ -100,27 +100,27 @@ I developed the full suite of website copy for [Chock Shop](https://www.chocksho
 
 Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their shape - round instead of the conventional square. I incorporated this into the slogan that I wrote for [Chock Shop](https://www.chockshop.co.uk/): "THE BEST BROWNIES AROUND BECAUSE THE BEST BROWNIES ARE ROUND". Beyond the website this can be seen on the windows of [Chock Shop](https://www.chockshop.co.uk/) outlets, as pictured below.
 
-![Webscopy](Newchockweb1.png)
+![Webscopy](images/Newchockweb1.png)
 
-![Webscopy](Newchockweb2.png)
+![Webscopy](images/Newchockweb2.png)
 
-![Webscopy](Newchockweb3.png)
+![Webscopy](images/Newchockweb3.png)
 
-![Webscopy](Newchockweb4.png)
+![Webscopy](images/Newchockweb4.png)
 
 ### Blogs
 I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an [example blog](https://www.chockshop.co.uk/blogs/the-best-brownies-around), and an interview that I conducted with [Chock Shop franchisees](https://www.chockshop.co.uk/blogs/a-tasty-franchise-opportunity). 
 
-![Blogs](Newchockblog1.png)
+![Blogs](images/Newchockblog1.png)
 
-![Blogs](Newchockblog2.png)
+![Blogs](images/Newchockblog2.png)
 
 ### Product Description
 I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chockshop.co.uk/our-flavours). See a snap shot below.
 
-![Product Description](NewProduct1.png)
+![Product Description](images/NewProduct1.png)
 
-![Product Description](NewProduct2.png)
+![Product Description](images/NewProduct2.png)
 
 ## HUB XV
 HUB XV was a start-up UK-based coworking and business community founded by former Wales international rugby player Alix Popham. It transformed iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
