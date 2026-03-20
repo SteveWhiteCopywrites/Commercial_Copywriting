@@ -3,8 +3,6 @@ NB: ALL CONTENT PRE-AI
 
 Commercial copywriting for private clients through [Skybluecreative](https://skybluecreative.co.uk/), including website copy, blog posts, PR, product descriptions, ghostwriting, and proofreading.
 
-## Website Copywriting
-
 ## HR Spectrum
 [HR Spectrum](https://hrspectrum.co.uk/) is a Wales-based boutique HR recruitment consultancy that connects organisations with high-calibre HR professionals, combining market insight, personalised service, and long-term partnership. Website design by [Parade Design](https://paradedesign.co.uk/).
 
