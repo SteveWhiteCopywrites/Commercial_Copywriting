@@ -132,11 +132,11 @@ HUB XV was a start-up UK-based coworking and business community founded by forme
 ### Webcopy
 Website copy developed to clearly explain the HUB XV concept, its spirit of sporting heritage and its appeal to a professional audience.
 
-![HUB XV Webcopy Example](images/hubxvcopy1.png)
+<img src="images/hubxvcopy1.png" width="600">
 
-![HUB XV Webcopy Example](images/hubxvcopy2.png)
+<img src="images/hubxvcopy2.png" width="600">
 
-![HUB XV Webcopy Example](images/hubxvcopy3.png)
+<img src="images/hubxvcopy3.png" width="600">
 
 ### PR
 PR and releases that I developed and distributed secured coverage across Western Mail in print, [Wales Online](https://www.walesonline.co.uk/business/business-news/former-welsh-rugby-international-turning-15647785), [Total Guide to Bath](https://www.totalguidetobath.com/business/hub-xv-community-workspace-opens-at-bath-racecourse/), and [Bath Racecourse](https://www.bath-racecourse.co.uk/bath-racecourse/hub-xv-coworking-space).
