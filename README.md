@@ -233,3 +233,15 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 ![Webcopy Example 1](images/BP2.png)
 
 ![Webcopy Example 1](images/BP3.png)
+
+## Aspect Vets 
+Aspect Vets provides HRM and employment law support tailored specifically for veterinary practices, helping clinics manage staff, compliance, and workplace issues.
+
+### Brief
+- Proofread and refine brochure content to ensure clarity, consistency, and accuracy across HR and employment law messaging.  
+- Support a professional, accessible tone appropriate for a specialist veterinary audience.
+
+### Brochure Proofreading
+Brochure content reviewed and refined to improve clarity, consistency, and overall readability.
+
+![Brochure Example](images/aspectvets-brochure.png)
