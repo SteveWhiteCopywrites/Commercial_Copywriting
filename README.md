@@ -254,6 +254,6 @@ Aspect Vets provides HRM and employment law support tailored specifically for ve
 ### Brochure Proofreading
 Brochure content reviewed and refined to improve clarity, consistency, and overall readability.
 
-![Brochure Example](images/Aspect1.png)
+<img src="images/Aspect1.png" width="600">
 
-![Brochure Example](images/Aspect2.png)
+<img src="images/Aspect1.png" width="600">
