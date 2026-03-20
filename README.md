@@ -169,7 +169,18 @@ PR coverage secured across Western Mail in print, [Wales Online](https://www.wal
 
 Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
 
-PICTURES
+![PhillipsWellbeing Webcopy](PW1.png)
+
+![PhillipsWellbeing Webcopy](PW2.png)
+
+![PhillipsWellbeing Webcopy](PW3.png)
+
+![PhillipsWellbeing Webcopy](PW4.png)
+
+![PhillipsWellbeing Webcopy](PW5.png)
+
+![PhillipsWellbeing Webcopy](PW6.png)
+
 
 ## Chapter Court
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
