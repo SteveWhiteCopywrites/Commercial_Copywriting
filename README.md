@@ -228,8 +228,8 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 ### Webcopy
 
-![Webcopy Example 1](BP1.png)
+![Webcopy Example 1](imagesBP1.png)
 
-![Webcopy Example 1](BP2.png)
+![Webcopy Example 1](imagesBP2.png)
 
-![Webcopy Example 1](BP3.png)
+![Webcopy Example 1](imagesBP3.png)
