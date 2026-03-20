@@ -219,6 +219,16 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 ![Chapter Court Webcopy example](Chaptercourt1.png).
 
+## Best Practice Coaching
+[Best Practice Coaching](https://www.bpcoaching.org.uk/services/outplacement-service) is a Wales-based coaching and consultancy service supporting individuals and organisations through career transition, leadership development, and outplacement programmes.
 
+### Brief
+Build clear, supportive website copy in collaboration with Mair Baron to communicate coaching and outplacement services. Strike correct tone with clarity to convey empathy, positivity and support, engaging individuals navigating their career pathways.
 
+### Webcopy
 
+Website copy developed in collaboration with Mair Baron, delivering clear, supportive messaging aligned with the brand’s coaching and outplacement services.
+
+![Webcopy Example 1](images/bpcoaching-webcopy-1.png)
+
+![Webcopy Example 2](images/bpcoaching-webcopy-2.png)
