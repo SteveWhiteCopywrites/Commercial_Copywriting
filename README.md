@@ -182,7 +182,7 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 ![PhillipsWellbeing Webcopy](PW6.png)
 
 ## Play-Ex
-[Play Ex](https://play-ex.com/) is a UK-based financial services platform focused on supporting athletes and high-performance individuals with tailored financial education, planning, and advisory services.
+[Play-Ex](https://play-ex.com/) is a UK-based financial services platform focused on supporting athletes and high-performance individuals with tailored financial education, planning, and advisory services.
 
 ### Brief
 - Develop clear, engaging website copy, including ambassador profiles and service content, translating complex financial concepts into accessible, user-friendly language.  
