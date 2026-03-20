@@ -254,9 +254,9 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 <img src="images/StDavid1.png" width="600">
 
-### Letter to Supporters
-
 <img src="images/StDavid2.png" width="600">
+
+### Letter to Supporters
 
 <img src="images/StDavid3.png" width="600">
 
