@@ -234,6 +234,17 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 ![Webcopy Example 1](images/BP3.png)
 
+## Kay Senior Coaching
+[Kay Senior Coaching](https://www.kseniorcoaching.com/) is a personal development and performance coaching service supporting individuals in achieving professional and personal goals.
+
+### Brief
+- Website copywriting for core pages including coach profile, services and positioning.
+
+### Webcopy
+
+<img src="images/KS1.jpg" width="700">
+
+
 ## Aspect Vets 
 Aspect Vets provides HRM and employment law support tailored specifically for veterinary practices, helping clinics manage staff, compliance, and workplace issues.
 
