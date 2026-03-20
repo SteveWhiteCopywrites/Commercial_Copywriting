@@ -134,26 +134,26 @@ Website copy developed to clearly explain the HUB XV concept, its spirit of spor
 
 ![HUB XV Webcopy Example](images/hubxvcopy1.png)
 
-![HUB XV Webcopy Example](hubxvcopy2.png)
+![HUB XV Webcopy Example](images/hubxvcopy2.png)
 
-![HUB XV Webcopy Example](hubxvcopy3.png)
+![HUB XV Webcopy Example](images/hubxvcopy3.png)
 
 ### PR
 PR and releases that I developed and distributed secured coverage across Western Mail in print, [Wales Online](https://www.walesonline.co.uk/business/business-news/former-welsh-rugby-international-turning-15647785), [Total Guide to Bath](https://www.totalguidetobath.com/business/hub-xv-community-workspace-opens-at-bath-racecourse/), and [Bath Racecourse](https://www.bath-racecourse.co.uk/bath-racecourse/hub-xv-coworking-space).
 
-![HUBXVPR](hubxvPR1Western.png)
+![HUBXVPR](images/hubxvPR1Western.png)
 
-![HUBXVPR](hubxvPR1WalesOnline.png)
+![HUBXVPR](images/hubxvPR1WalesOnline.png)
 
-![HUBXVPR](hubxvPR1WalesOnline1.png)
+![HUBXVPR](images/hubxvPR1WalesOnline1.png)
 
-![HUBXVPR](hubxvPR2Snapped.png)
+![HUBXVPR](images/hubxvPR2Snapped.png)
 
-![HUBXVPR](hubxvPR3Workspace.png)
+![HUBXVPR](images/hubxvPR3Workspace.png)
 
-![HUBXVPR](hubxvPR4Racecourse.png)
+![HUBXVPR](images/hubxvPR4Racecourse.png)
 
-![HUBXVPR](hubxvPR5.png)
+![HUBXVPR](images/hubxvPR5.png)
 
 ## Phillips Wellbeing
 [Phillips Wellbeing](https://www.phillipswellbeing.co.uk/) is a wellbeing consultancy based in Newport, south Wales, offering coaching and support services focused on mental health, resilience, and personal development.
