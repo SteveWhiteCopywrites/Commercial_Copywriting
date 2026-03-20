@@ -242,8 +242,7 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 ### Webcopy
 
-<img src="images/KS1.jpg" width="700">
-
+<img src="images/KS1.png" width="600">
 
 ## Aspect Vets 
 Aspect Vets provides HRM and employment law support tailored specifically for veterinary practices, helping clinics manage staff, compliance, and workplace issues.
