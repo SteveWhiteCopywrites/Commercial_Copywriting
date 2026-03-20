@@ -165,17 +165,17 @@ PR and releases that I developed and distributed secured coverage across Western
 ### Webcopy
 Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
 
-![PhillipsWellbeing Webcopy](PW1.png)
+![PhillipsWellbeing Webcopy](images/PW1.png)
 
-![PhillipsWellbeing Webcopy](PW2.png)
+![PhillipsWellbeing Webcopy](images/PW2.png)
 
-![PhillipsWellbeing Webcopy](PW3.png)
+![PhillipsWellbeing Webcopy](images/PW3.png)
 
-![PhillipsWellbeing Webcopy](PW4.png)
+![PhillipsWellbeing Webcopy](images/PW4.png)
 
-![PhillipsWellbeing Webcopy](PW5.png)
+![PhillipsWellbeing Webcopy](images/PW5.png)
 
-![PhillipsWellbeing Webcopy](PW6.png)
+![PhillipsWellbeing Webcopy](images/PW6.png)
 
 ## Play-Ex
 [Play-Ex](https://play-ex.com/) is a UK-based financial services platform focused on supporting athletes and high-performance individuals with tailored financial education, planning, and advisory services.
