@@ -227,8 +227,8 @@ Build clear, supportive website copy in collaboration with Mair Baron to communi
 
 ### Webcopy
 
-Website copy developed in collaboration with Mair Baron, delivering clear, supportive messaging aligned with the brand’s coaching and outplacement services.
+![Webcopy Example 1](BP1.png)
 
-![Webcopy Example 1](images/bpcoaching-webcopy-1.png)
+![Webcopy Example 1](BP2.png)
 
-![Webcopy Example 2](images/bpcoaching-webcopy-2.png)
+![Webcopy Example 1](BP3.png)
