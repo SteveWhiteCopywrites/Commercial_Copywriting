@@ -244,6 +244,20 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 <img src="images/KS2.png" width="600">
 
+## St David's Hospice Care
+[St David’s Hospice Care](https://stdavidshospicecare.org/) is a charitable organisation providing free palliative and end-of-life care, support and specialist services to patients and families across South East Wales. Documents designed by [Parade Design](https://paradedesign.co.uk/).
+
+# Brief
+- Create a newsletter copywriting, supporter communications and proofreading of existing branded material for St David’s Hospice Care.
+
+### Newsletter Copy
+
+
+
+### Supporter Letter
+
+
+
 ## Aspect Vets 
 Aspect Vets provides HRM and employment law support tailored specifically for veterinary practices, helping clinics manage staff, compliance, and workplace issues.
 
