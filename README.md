@@ -189,7 +189,7 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 - Ensure consistency of tone, clarity of messaging, and accuracy across all website content through writing and proofreading.
 
 ### Webcopy
-Website copy developed to clearly communicate the Play Ex offering and engage a high-performance, athlete-focused audience.
+Website copy developed to clearly communicate the Play-Ex offering and engage a high-performance, athlete-focused audience.
 
 ![Webcopy Example 1](PlayEx1.png)
 
