@@ -124,8 +124,8 @@ I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chock
 HUB XV was a start-up UK-based coworking and business community founded by former Wales international rugby player Alix Popham. It transformed iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
 
 ### Brief
-- Develop and deliver a consistent brand voice across all channels, including website, marketing, PR, social media, and editorial content.  
-- Produce engaging content—blogs, interviews, and news releases—to build brand identity, support community engagement, and promote the HUB XV concept.
+- Develop and deliver a consistent brand voice across all channels, including website, marketing, PR, social media, and editorial content  
+- Produce engaging content—blogs, interviews, and news releases—to build brand identity, support community engagement, and promote the HUB XV concept
 
 ### Webcopy
 Website copy developed to clearly explain the HUB XV concept, its spirit of sporting heritage and its appeal to a professional audience.
@@ -157,8 +157,8 @@ PR and releases that I developed and distributed secured coverage across Western
 [Phillips Wellbeing](https://www.phillipswellbeing.co.uk/) is a wellbeing consultancy based in Newport, south Wales, offering coaching and support services focused on mental health, resilience, and personal development.
 
 ### Brief
-- Rewrite and refine website copy to clearly communicate services, improve tone of voice, and better engage a wellbeing-focused audience.  
-- Ensure messaging is accessible, supportive, and aligned with the brand’s focus on mental health and personal development.
+- Rewrite and refine website copy to clearly communicate services, improve tone of voice, and better engage a wellbeing-focused audience 
+- Ensure messaging is accessible, supportive, and aligned with the brand’s focus on mental health and personal development
 
 ### Webcopy
 Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
@@ -179,8 +179,8 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 [Play-Ex](https://play-ex.com/) is a UK-based financial services platform focused on supporting athletes and high-performance individuals with tailored financial education, planning, and advisory services.
 
 ### Brief
-- Develop clear, engaging website copy, including ambassador profiles and service content, translating complex financial concepts into accessible, user-friendly language.  
-- Ensure consistency of tone, clarity of messaging, and accuracy across all website content through writing and proofreading.
+- Develop clear, engaging website copy, including ambassador profiles and service content, translating complex financial concepts into accessible, user-friendly language
+- Ensure consistency of tone, clarity of messaging, and accuracy across all website content through writing and proofreading
 
 ### Webcopy
 Website copy developed to clearly communicate the [Play-Ex](https://play-ex.com/) offering and engage a high-performance, athlete-focused audience.
@@ -209,8 +209,8 @@ Complex financial services content translated into clear, accessible website cop
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
 
 ### Brief
-- Develop engaging website copy to introduce a micro-retail destination and communicate its offer to visitors and prospective traders.  
-- Capture a clear, community-focused tone while highlighting the diversity of independent businesses within the space.
+- Develop engaging website copy to introduce a micro-retail destination and communicate its offer to visitors and prospective traders  
+- Capture a clear, community-focused tone while highlighting the diversity of independent businesses within the space
 
 ### Webcopy
 Document design by [Parade Design](https://paradedesign.co.uk/).
@@ -221,8 +221,8 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 [Best Practice Coaching](https://www.bpcoaching.org.uk/services/outplacement-service) is a Wales-based coaching and consultancy service supporting individuals and organisations through career transition, leadership development, and outplacement programmes.
 
 ### Brief
-- Build clear, supportive website copy in collaboration with Mair Baron to communicate coaching and outplacement services.
-- Strike correct tone with clarity to convey empathy, positivity and support, engaging individuals navigating their career pathways.
+- Build clear, supportive website copy in collaboration with Mair Baron to communicate coaching and outplacement services
+- Strike correct tone with clarity to convey empathy, positivity and support, engaging individuals navigating their career pathways
 
 ### Webcopy
 
@@ -236,7 +236,7 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 [Kay Senior Coaching](https://www.kseniorcoaching.com/) is a personal development and performance coaching service supporting individuals in achieving professional and personal goals.
 
 ### Brief
-- Website copywriting for core pages including coach profile, services and positioning.
+- Website copywriting for core pages including coach profile, services and positioning
 
 ### Webcopy
 
@@ -248,7 +248,7 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 [St David’s Hospice Care](https://stdavidshospicecare.org/) is a charitable organisation providing free palliative and end-of-life care, support and specialist services to patients and families across South East Wales. Documents designed by [Parade Design](https://paradedesign.co.uk/).
 
 ### Brief
-- Create a newsletter copywriting, supporter communications and proofreading of existing branded material for St David’s Hospice Care.
+- Create a newsletter copywriting, supporter communications and proofreading of existing branded material for St David’s Hospice Care
 
 ### Newsletter Copy
 
@@ -264,8 +264,8 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 Aspect Vets provides HRM and employment law support tailored specifically for veterinary practices, helping clinics manage staff, compliance, and workplace issues.
 
 ### Brief
-- Proofread and refine brochure content to ensure clarity, consistency, and accuracy across HR and employment law messaging.  
-- Support a professional, accessible tone appropriate for a specialist veterinary audience.
+- Proofread and refine brochure content to ensure clarity, consistency, and accuracy across HR and employment law messaging
+- Support a professional, accessible tone appropriate for a specialist veterinary audience
 
 ### Brochure Proofreading
 Brochure content reviewed and refined to improve clarity, consistency, and overall readability.
@@ -278,7 +278,7 @@ Brochure content reviewed and refined to improve clarity, consistency, and overa
 Seafood Shack was a Cardiff-based restaurant offering high-quality seafood dining in a relaxed, contemporary setting.
 
 ### Brief
-Concept development and copywriting for a print advertisement for Seafood Shack, published in Cardiff's *Style of the City* [magazine](https://styleofthecitymag.co.uk/).
+Concept development and copywriting for a print advertisement for Seafood Shack, published in Cardiff's *Style of the City* [magazine](https://styleofthecitymag.co.uk/)
 
 <img src="images/seafood.png" width="600">
 
@@ -286,7 +286,7 @@ Concept development and copywriting for a print advertisement for Seafood Shack,
 [Poseidon Swim School](https://www.poseidonswimschool.com/) is a children’s swimming academy providing structured lessons focused on building confidence, safety and technical ability in the water.
 
 ### Brief
-- Design, copywriting and delivery of an online advertisement promoting the swim school’s services.
+- Design, copywriting and delivery of an online advertisement promoting the swim school’s services
 
 <img src="images/poseidon.png" width="600">
 
