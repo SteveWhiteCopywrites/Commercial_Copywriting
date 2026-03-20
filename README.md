@@ -126,7 +126,6 @@ I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chock
 HUB XV was a start-up UK-based coworking and business community founded by former Wales international rugby player Alix Popham. It transformed iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
 
 ### Brief
-
 - Develop and deliver a consistent brand voice across all channels, including website, marketing, PR, social media, and editorial content.  
 - Produce engaging content—blogs, interviews, and news releases—to build brand identity, support community engagement, and promote the HUB XV concept.
 
@@ -157,16 +156,13 @@ PR and releases that I developed and distributed secured coverage across Western
 ![HUBXVPR](hubxvPR5.png)
 
 ## Phillips Wellbeing
-
 [Phillips Wellbeing](https://www.phillipswellbeing.co.uk/) is a wellbeing consultancy based in Newport, south Wales, offering coaching and support services focused on mental health, resilience, and personal development.
 
 ### Brief
-
 - Rewrite and refine website copy to clearly communicate services, improve tone of voice, and better engage a wellbeing-focused audience.  
 - Ensure messaging is accessible, supportive, and aligned with the brand’s focus on mental health and personal development.
 
 ### Webcopy
-
 Website copy developed to improve clarity, tone, and engagement, ensuring services are communicated in a supportive and accessible way.
 
 ![PhillipsWellbeing Webcopy](PW1.png)
@@ -189,11 +185,22 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 - Ensure consistency of tone, clarity of messaging, and accuracy across all website content through writing and proofreading.
 
 ### Webcopy
-Website copy developed to clearly communicate the Play-Ex offering and engage a high-performance, athlete-focused audience.
+Website copy developed to clearly communicate the [Play-Ex](https://play-ex.com/) offering and engage a high-performance, athlete-focused audience.
 
 ![Webcopy Example 1](PlayEx1.png)
 
 ![Webcopy Example 1](PlayEx2.png)
+
+### Ambassador Profiles
+Profiles written to showcase [Play-Ex ambassadors](https://play-ex.com/ambassadors/), highlighting their achievements while aligning their stories with the brand’s values and mission.
+
+![Ambassador Profile 1](PlayEx3.png)
+
+![Ambassador Profile 1](PlayEx4.png)
+
+![Ambassador Profile 1](PlayEx5.png)
+
+![Ambassador Profile 1](PlayEx6.png)
 
 ## Chapter Court
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
