@@ -84,7 +84,7 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 ### Infographics
 A snapshot of infographics that I designed, wrote, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for [HR Spectrum](https://hrspectrum.co.uk/). This content was produced to promote and support blogs, events, campaigns and announcements, such as job or training opportunities.
 
-![HR Spectrum Infographics examples](images/HRSpecInfo.png)
+<img src="images/HRSpecInfo.png" width="600">
 
 ## Chock Shop
 [Chock Shop](https://www.chockshop.co.uk/) is a UK-based artisan brownie brand known for its handmade, premium products and strong presence at festivals, markets, and two retail locations, including Abergavenny and Saundersfoot in Wales.
@@ -100,27 +100,27 @@ I developed the full suite of website copy for [Chock Shop](https://www.chocksho
 
 Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their shape - round instead of the conventional square. I incorporated this into the slogan that I wrote for [Chock Shop](https://www.chockshop.co.uk/): "THE BEST BROWNIES AROUND BECAUSE THE BEST BROWNIES ARE ROUND". Beyond the website this can be seen on the windows of [Chock Shop](https://www.chockshop.co.uk/) outlets, as pictured below.
 
-![Webscopy](images/Newchockweb1.png)
+<img src="images/Newchockweb1.png" width="600">
 
-![Webscopy](images/Newchockweb2.png)
+<img src="images/Newchockweb2.png" width="600">
 
-![Webscopy](images/Newchockweb3.png)
+<img src="images/Newchockweb3.png" width="600">
 
-![Webscopy](images/Newchockweb4.png)
+<img src="images/Newchockweb4.png" width="600">
 
 ### Blogs
 I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an [example blog](https://www.chockshop.co.uk/blogs/the-best-brownies-around), and an interview that I conducted with [Chock Shop franchisees](https://www.chockshop.co.uk/blogs/a-tasty-franchise-opportunity). 
 
-![Blogs](images/Newchockblog1.png)
+<img src="images/Newchockblog1.png" width="600">
 
-![Blogs](images/Newchockblog2.png)
+<img src="images/Newchockblog2.png" width="600">
 
 ### Product Description
 I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chockshop.co.uk/our-flavours). See a snap shot below.
 
-![Product Description](images/NewProduct1.png)
+<img src="images/NewProduct1.png" width="600">
 
-![Product Description](images/NewProduct2.png)
+<img src="images/NewProduct2.png" width="600">
 
 ## HUB XV
 HUB XV was a start-up UK-based coworking and business community founded by former Wales international rugby player Alix Popham. It transformed iconic sports venues into flexible workspaces for professionals and entrepreneurs. The business is no longer in operation.
