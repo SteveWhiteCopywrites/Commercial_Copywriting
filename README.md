@@ -273,3 +273,12 @@ Brochure content reviewed and refined to improve clarity, consistency, and overa
 <img src="images/Aspect1.png" width="600">
 
 <img src="images/Aspect2.png" width="600">
+
+## Poseidon Swim School
+[Poseidon Swim School](https://www.poseidonswimschool.com/) is a children’s swimming academy providing structured lessons focused on building confidence, safety and technical ability in the water.
+
+### Brief
+- Design, copywriting and delivery of an online advertisement promoting the swim school’s services.
+
+<img src="images/poseidon.png" width="600">
+
