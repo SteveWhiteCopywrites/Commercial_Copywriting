@@ -187,25 +187,25 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 ### Webcopy
 Website copy developed to clearly communicate the [Play-Ex](https://play-ex.com/) offering and engage a high-performance, athlete-focused audience.
 
-![Webcopy Example 1](images/PlayEx1.png)
+<img src="images/PlayEx1.png" width="600">
 
-![Webcopy Example 1](images/PlayEx2.png)
+<img src="images/PlayEx2.png" width="600">
 
 ### Ambassador Profiles
 Profiles written to showcase [Play-Ex ambassadors](https://play-ex.com/ambassadors/), highlighting their achievements while aligning their stories with the brand’s values and mission.
 
-![Ambassador Profile 1](images/PlayEx3.png)
+<img src="images/PlayEx3.png" width="600">
 
-![Ambassador Profile 1](images/PlayEx4.png)
+<img src="images/PlayEx4.png" width="600">
 
-![Ambassador Profile 1](images/PlayEx5.png)
+<img src="images/PlayEx5.png" width="600">
 
-![Ambassador Profile 1](images/PlayEx6.png)
+<img src="images/PlayEx6.png" width="600">
 
 ### Services Information
 Complex financial services content translated into clear, accessible website copy. Below is a snapshot of the services offered by [Play-Ex](https://play-ex.com/services/).
 
-![Services Content Example 1](images/PlayEx7.png)
+<img src="images/PlayEx7.png" width="600">
 
 ## Chapter Court
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
