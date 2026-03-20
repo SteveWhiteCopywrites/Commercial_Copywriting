@@ -140,7 +140,7 @@ Website copy developed to clearly explain the HUB XV concept, its spirit of spor
 ![HUB XV Webcopy Example](hubxvcopy3.png)
 
 ### PR
-PR coverage secured across Western Mail in print, [Wales Online](https://www.walesonline.co.uk/business/business-news/former-welsh-rugby-international-turning-15647785), [Total Guide to Bath](https://www.totalguidetobath.com/business/hub-xv-community-workspace-opens-at-bath-racecourse/), and [Bath Racecourse](https://www.bath-racecourse.co.uk/bath-racecourse/hub-xv-coworking-space), based on press releases and founder commentary that I developed and distributed.
+PR coverage that I developed and distributed secured across Western Mail in print, [Wales Online](https://www.walesonline.co.uk/business/business-news/former-welsh-rugby-international-turning-15647785), [Total Guide to Bath](https://www.totalguidetobath.com/business/hub-xv-community-workspace-opens-at-bath-racecourse/), and [Bath Racecourse](https://www.bath-racecourse.co.uk/bath-racecourse/hub-xv-coworking-space).
 
 ![HUBXVPR](hubxvPR1Western.png)
 
