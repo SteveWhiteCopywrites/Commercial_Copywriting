@@ -202,6 +202,11 @@ Profiles written to showcase [Play-Ex ambassadors](https://play-ex.com/ambassado
 
 ![Ambassador Profile 1](PlayEx6.png)
 
+### Services Information
+Complex financial services content translated into clear, accessible website copy. Below is a snapshot of the services offered by [Play-Ex](https://play-ex.com/services/).
+
+![Services Content Example 1](PlayEx7.png)
+
 ## Chapter Court
 [Chapter Court](https://chaptercourt.co.uk/) is a microretailing and events space in the heart of Wrexham.
 
