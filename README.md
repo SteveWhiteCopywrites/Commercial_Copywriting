@@ -109,7 +109,7 @@ Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their s
 ![Webscopy](Newchockweb4.png)
 
 ### Blogs
-I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an example blog, and an interview that I conducted with [Chock Shop](https://www.chockshop.co.uk/) franchisees. 
+I wrote long-form blog content designed to extend the brand voice beyond product pages, combining storytelling with SEO. Below is an [example blog](https://www.chockshop.co.uk/blogs/the-best-brownies-around), and an interview that I conducted with [Chock Shop franchisees](https://www.chockshop.co.uk/blogs/a-tasty-franchise-opportunity). 
 
 ![Blogs](Newchockblog1.png)
 
