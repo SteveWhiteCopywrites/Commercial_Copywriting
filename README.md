@@ -18,22 +18,22 @@ Commercial copywriting for private clients through [Skybluecreative](https://sky
 
 ### Webcopy
 
-![HR Spectrum website copy](hrspec1.png)
+![HR Spectrum website copy](images/hrspec1.png)
 
-![HR Spectrum website copy](hrspec2.png)
+![HR Spectrum website copy](images/hrspec2.png)
 
 ### Blogs
 Blogs for the [HR Spectrum](https://hrspectrum.co.uk/) website covered employment law, workplace wellbeing and HR best practice. A total of 22 original, researched, on-topic HR blogs were supplied according to regular briefings with client from Aug 2021 to Feb 2023, each with banner image. A snapshot of these blogs as they appear in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom) can be seen below. My work ends on and includes entry dated Feb 20th 2023.
 
-![HR Spectrum blog examples](hrspecblogs.png)
+![HR Spectrum blog examples](images/hrspecblogs.png)
 
 Example Blog: Breaking the silence on mental health in the workplace. Read the blog in the [HR Spectrum Newsroom](https://hrspectrum.co.uk/newsroom/breaking-the-silence-on-mental-health-in-the-workplace).
 
-![HR Spectrum blog examples](blog1.png)
+![HR Spectrum blog examples](images/blog1.png)
 
-![HR Spectrum blog examples](blog2.png)
+![HR Spectrum blog examples](images/blog2.png)
 
-![HR Spectrum blog examples](blog3.png)
+![HR Spectrum blog examples](images/blog3.png)
 
 Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 
@@ -84,7 +84,7 @@ Full blog list written for [HR Spectrum](https://hrspectrum.co.uk/):
 ### Infographics
 A snapshot of infographics that I designed, wrote, scheduled and published as part of social media messaging campaigns on LinkedIn, Facebook, and X for [HR Spectrum](https://hrspectrum.co.uk/). This content was produced to promote and support blogs, events, campaigns and announcements, such as job or training opportunities.
 
-![HR Spectrum Infographics examples](HRSpecInfo.png)
+![HR Spectrum Infographics examples](images/HRSpecInfo.png)
 
 ## Chock Shop
 [Chock Shop](https://www.chockshop.co.uk/) is a UK-based artisan brownie brand known for its handmade, premium products and strong presence at festivals, markets, and two retail locations, including Abergavenny and Saundersfoot in Wales.
