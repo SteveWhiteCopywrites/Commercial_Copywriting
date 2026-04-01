@@ -18,6 +18,8 @@ Commercial copywriting for private clients through [Skybluecreative](https://sky
 
 <img src="images/hrspec1.png" width="600">
 
+---
+
 <img src="images/hrspec2.png" width="600">
 
 ### Blogs
@@ -29,7 +31,11 @@ Example Blog: Breaking the silence on mental health in the workplace. Read the b
 
 <img src="images/blog1.png" width="600">
 
+---
+
 <img src="images/blog2.png" width="600">
+
+---
 
 <img src="images/blog3.png" width="600">
 
@@ -100,9 +106,15 @@ Part of [Chock Shop](https://www.chockshop.co.uk/) brownies' idenity was their s
 
 <img src="images/Newchockweb1.png" width="600">
 
+---
+
 <img src="images/Newchockweb2.png" width="600">
 
+---
+
 <img src="images/Newchockweb3.png" width="600">
+
+---
 
 <img src="images/Newchockweb4.png" width="600">
 
@@ -111,12 +123,16 @@ I wrote long-form blog content designed to extend the brand voice beyond product
 
 <img src="images/Newchockblog1.png" width="600">
 
+---
+
 <img src="images/Newchockblog2.png" width="600">
 
 ### Product Description
 I wrote over 30 product descriptions for the [Chock Shop menu](https://www.chockshop.co.uk/our-flavours). See a snap shot below.
 
 <img src="images/NewProduct1.png" width="600">
+
+---
 
 <img src="images/NewProduct2.png" width="600">
 
@@ -132,7 +148,11 @@ Website copy developed to clearly explain the HUB XV concept, its spirit of spor
 
 <img src="images/hubxvcopy1.png" width="600">
 
+---
+
 <img src="images/hubxvcopy2.png" width="600">
+
+---
 
 <img src="images/hubxvcopy3.png" width="600">
 
@@ -141,15 +161,27 @@ PR and releases that I developed and distributed secured coverage across Western
 
 <img src="images/hubxvPR1Western.png" width="600">
 
+---
+
 <img src="images/hubxvPR1WalesOnline.png" width="600">
+
+---
 
 <img src="images/hubxvPR1WalesOnline1.png" width="600">
 
+---
+
 <img src="images/hubxvPR2Snapped.png" width="600">
+
+---
 
 <img src="images/hubxvPR3Workspace.png" width="600">
 
+---
+
 <img src="images/hubxvPR4Racecourse.png" width="600">
+
+---
 
 <img src="images/hubxvPR5.png" width="600">
 
@@ -165,13 +197,23 @@ Website copy developed to improve clarity, tone, and engagement, ensuring servic
 
 <img src="images/PW1.png" width="600">
 
+---
+
 <img src="images/PW2.png" width="600">
+
+---
 
 <img src="images/PW3.png" width="600">
 
+---
+
 <img src="images/PW4.png" width="600">
 
+---
+
 <img src="images/PW5.png" width="600">
+
+---
 
 <img src="images/PW6.png" width="600">
 
@@ -187,6 +229,8 @@ Website copy developed to clearly communicate the [Play-Ex](https://play-ex.com/
 
 <img src="images/PlayEx1.png" width="600">
 
+---
+
 <img src="images/PlayEx2.png" width="600">
 
 ### Ambassador Profiles
@@ -194,9 +238,15 @@ Profiles written to showcase [Play-Ex ambassadors](https://play-ex.com/ambassado
 
 <img src="images/PlayEx3.png" width="600">
 
+---
+
 <img src="images/PlayEx4.png" width="600">
 
+---
+
 <img src="images/PlayEx5.png" width="600">
+
+---
 
 <img src="images/PlayEx6.png" width="600">
 
@@ -228,7 +278,11 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 <img src="images/BP1.png" width="600">
 
+---
+
 <img src="images/BP2.png" width="600">
+
+---
 
 <img src="images/BP3.png" width="600">
 
@@ -242,6 +296,8 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 
 <img src="images/KS1.png" width="600">
 
+---
+
 <img src="images/KS2.png" width="600">
 
 ## St David's Hospice Care
@@ -253,6 +309,8 @@ Document design by [Parade Design](https://paradedesign.co.uk/).
 ### Newsletter Copy
 
 <img src="images/StDavid1.png" width="600">
+
+---
 
 <img src="images/StDavid2.png" width="600">
 
@@ -271,6 +329,8 @@ Aspect Vets provides HRM and employment law support tailored specifically for ve
 Brochure content reviewed and refined to improve clarity, consistency, and overall readability.
 
 <img src="images/Aspect1.png" width="600">
+
+---
 
 <img src="images/Aspect2.png" width="600">
 
